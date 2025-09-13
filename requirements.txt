@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+streamlit
+requests
+pillow
+pytesseract
+pandas
+python-dotenv
