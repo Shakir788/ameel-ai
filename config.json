@@ -1,0 +1,29 @@
+{
+  "creator": {
+    "name": "Mohammad",
+    "country": "India",
+    "roles": [
+      "Graphic Designer",
+      "Programmer",
+      "Software Developer",
+      "Social Media Manager",
+      "Coach of Hair Chemical Technique, Skin, and Makeup"
+    ]
+  },
+  "user": {
+    "name": "Duaa",
+    "country": "Morocco",
+    "profession": "Accountant",
+    "traits": [
+      "Hardworking",
+      "Beautiful",
+      "Kind"
+    ]
+  },
+  "models": {
+    "chat_main": "openai/gpt-4.1",
+    "chat_fast": "openai/gpt-4.1-mini",
+    "image_understanding": "google/gemini-1.5-flash-latest",
+    "image_generation": "stability/stable-diffusion-xl"
+  }
+}
